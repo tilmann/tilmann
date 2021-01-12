@@ -1,28 +1,17 @@
 This README might help to start a conversation, communicate better, work together and set expectations. In the future I want to to share my values, my goals, my motivations, what I like and hate and how I work. It will be a recommended read for everyone who works with me. 
 
-# Motivation
+# :muscle: Motivation
+* I am motivated by teams and ownership. I am always impressed what a team can achieve if every team member declares ownership for "their" responsibilies. 
 
-I am motivated by teams and ownership. I always impressed what a team can achieve if every team member declares ownership for "their" responsibilies. 
+# :speech_balloon: Communication
+* "Strong opinions, loosely held" - I will have an opinion, but I try to listen and learn and if I was wrong I am happy to change my opinion.
+* I tend to be loud and outspoken. Sometimes I need help to make sure everyone is heard. 
 
+# :building_construction: Way of working
+* Everything we do affects so many others things. Changes will always affect a lot of systems. Our goal should always include to improve whole systems and not local maxima.
+* Trying things out is the only way to find out if something works. So I do it often. And if learn that something does not work out I am not clinged to it. 
 
-
-# Values
-
-For a workshop I had to prioritze the following list. This is what I came up with. (And it made me remember how hard it is to priorize.)
-
-* Ownership
-* Trust
-* Collaboration
-* Speed
-* User centricity 
-* Respect 
-* Transparency
-* Knowledge
-* Quality 
-* Diversity 
-* Cooperation 
-* Celebrate 
-* Punctuality 
-* Pioneering 
-
-# Random 
+# :game_die: Random 
+ * Language is important. I am trying to use inclusive speech. 
+ * A stoic mindset helps me to be a very happy person. You cannot control the external things, you can only control how you react. 
+ * I :blue_heart: emojis!
