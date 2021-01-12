@@ -1,5 +1,5 @@
-# Tilmann.README
-This is a new document and still a work in progress. It is meant as documentation about me and it might help to start a conversation, communicate better, work together and set expectations. In the future I want to to share my values, my goals, my motivations, what I like and hate and how I work. It will be a recommended read for everyone who works with me. 
+# Tilmann.README [WIP]
+This README is meant as documentation about me and it might help to start a conversation, communicate better, work together and set expectations. In the future I want to to share my values, my goals, my motivations, what I like and hate and how I work. It will be a recommended read for everyone who works with me. 
 
 ## :100: Motivation
 * I am motivated by teams and ownership. I am always impressed what a team can achieve if every team member declares ownership for "their" responsibilies. 
@@ -19,7 +19,7 @@ This is a new document and still a work in progress. It is meant as documentatio
 
 ## :memo: Additional ressources
 ### Let's talk
-* This document should help to understand each other better and NOT a replacement for getting to know each other. I am (@tilmannb)[https://twitter.com/tilmannb] on Twitter and I am looking forward to hear from you. DMs are open!
+* This document should help to understand each other better and is NOT a replacement for getting to know each other. I am [@tilmannb](https://twitter.com/tilmannb) on Twitter and I am looking forward to hear from you. DMs are open!
 ### Further reading
-[12 “Manager READMEs” from Silicon Valley’s Top Tech Companies | Hacker Noon](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
-[Manual of Me](https://www.manualof.me)
+* [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies | Hacker Noon](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+* [Manual of Me](https://www.manualof.me)
