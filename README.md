@@ -5,17 +5,18 @@ This README is meant as documentation about me, and it might help to start a con
 ## :100: Motivation
 
 - I am motivated by teams and ownership. I am always impressed what a team can achieve if every team member declares ownership for their responsibilities.
+- We are living in exponential times in terms of progress for humanity. But we need to save the planet as a place where we enjoy living together. Therefore, the climate crisis is the most pressing issue to address.
 
 ## :speech_balloon: Communication
 
-- "Strong opinions, loosely held" - I will have an opinion, but I will try to listen and learn and if I was wrong I am happy to change my mind about it.
+- "Strong opinions, weakly held" - I will have an opinion, but I will try to listen and learn and if I was wrong I am happy to change my mind about it. [Source](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/)
 - I tend to be loud and outspoken. Sometimes I need help to make sure everyone is heard.
 - Don't be too serious. We are here to enjoy. I use irony a lot to highlight that this world takes itself too serious.
 
 ## :building_construction: Way of working
 
-- Our actions have a lot of side effects. One action will always influence a lot of systems. Our goals should always include to improve systems and not local maxima.
-- Trying out new things is the best way to find out if something works. So I try new things often. If I learn that something does not work out I let it go.
+- Our actions have a lot of side effects. One action will always influence a lot of systems. Our goals should always try to improve systems and not local maxima.
+- Working in new areas is the best way to find out how something works. So I try new things often. If I learn that something does not work out I let it go.
 
 ## :game_die: Random
 
